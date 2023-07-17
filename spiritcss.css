@@ -1,0 +1,151 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.flex-container{
+    background-color: black;
+    height: 100vh;
+    max-width: 200%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    
+    
+    
+
+    
+    
+}
+.newbie{
+    font-size: 2.5vh;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: auto;
+    margin-left: 100px;
+    border: 0;
+    
+    
+    
+    
+}
+
+
+#partner{
+    border: 3px solid blueviolet;
+    background-color: blueviolet;
+    width: 25vh;
+    height: 8vh;
+    border-radius: 2vw;
+    text-align: center;
+    font-size: 3.5vh;
+   
+    justify-content: center;
+    align-items: center;
+    margin-right: 0;
+    padding-right: 0;
+    margin-bottom: auto;
+    margin-left: auto;
+    
+    
+    
+
+   
+
+}
+#partner:hover{
+    background-color: rgb(171, 99, 230);
+    width: 25vh;
+    
+    height: 8vh;
+    border-radius: 2vw;
+    text-align: center;
+    font-size: 3.5vh;
+    
+    
+    padding-right: 0;
+    
+}
+div{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+h1{
+    display: flex;
+    font-size: 10vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    
+    justify-content: center;
+    align-items: center;
+    padding-right: 50%;
+    flex-wrap: wrap-reverse;
+}
+
+.aboutus{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100vh;
+    background-color: rgba(6, 34, 81, 0.5);
+    height: 110vh;
+    max-width: 100%;
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    height: 55vh;
+    
+    text-align: right;
+    padding-right:  10vw;
+    padding-top: 0%;
+    float: left;
+    margin-left: 0;
+    align-self: first baseline;
+}
+h2{
+    font-size: 6vh;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding
+}
+#img-keyboard{
+    height: 10vh;
+    width: 10vw;
+    display:flex;
+
+}
+.numberssay{
+    background-color: darkblue;
+    border: 1px solid darkblue;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 50px;
+    display: flex;
+
+}
+.img-others{
+    height: 10vh;
+    width: 7vw;
+    
+}
+.p-id{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: small;
+
+}
